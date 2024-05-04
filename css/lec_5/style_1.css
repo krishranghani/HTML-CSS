@@ -1,0 +1,20 @@
+/* inheritance */
+.parant{
+    color:red
+}
+
+/* child */
+p{
+    color: blue;
+}
+
+/* inherit means parants style take */
+/* p{
+    color: inherit;
+} */
+
+ 
+/* initial means default browser style take  */
+/* p{
+    color: initial;
+} */
