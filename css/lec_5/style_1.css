@@ -16,6 +16,15 @@
     border-radius: 10px;
     text-align: center;
 }
+
+.visible{
+    visibility: visible;
+ }
+ 
+.hidden{
+     visibility: hidden;
+  }
+
 .font{
     font-size:larger;
 }

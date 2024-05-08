@@ -1,0 +1,21 @@
+.opacity{
+    display: flex;
+}
+
+.opacity img{
+    height: 50px;
+    width: 50px;
+}
+
+.opacity_1{
+     opacity: 1;
+}
+
+.opacity_1_5{
+    opacity: 0.5;
+}
+
+.opacity_0{
+    opacity: 0;
+    opacity: 0.1;
+}
