@@ -1,0 +1,115 @@
+.navbar {
+    display: flex;
+    background-image: linear-gradient();
+    background-color: rgb(89, 0, 255);
+    justify-content: space-between;
+    align-items: center;
+    /* height: 45px; */
+    padding: 20px;
+
+}
+
+.megaone{
+    margin-right: 150px;
+    font-size:xx-large;
+    /* text-shadow: 10px 10px 10px 10px black; */
+}
+
+body {
+    background-color: rgb(0, 0, 255);
+    margin: 0;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+.center-nav a {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 70px;
+    /* text-decoration: none; */
+    /* Remove underline */
+}
+.logo {
+    color: rgb(214, 21, 21);
+    font-weight: bold; 
+    font-size: 100px;
+    text-decoration: none;
+}
+.end7{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.center-nav a:hover {
+    background-color: rgb(43, 215, 242);
+    border-radius: 20px;
+}
+/* .first-class {
+
+    width: 98.7vw;
+    height: 100vh;
+    background: linear-gradient(to right, #3264f5 2%, #7004bc 82%)
+} */
+.class1 {
+    display: flex;
+    justify-content: center;
+    /* justify-content: end; */
+    /* align-items: center; */
+}
+.push {
+    display: flex;
+    margin-top: 40px;
+    transition: all 2s linear;
+}
+
+.push:hover {
+    transform: translate(100px, 0px);
+}
+.span{
+    margin-top: 100px;
+    margin-left:100px;  
+}
+.Creative{
+    color: rgb(199, 35, 63);
+    font-size: 60px;
+}
+.Digital{
+    color: white;
+    font-size: 60px;
+}
+.lorem{
+    margin-right: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+.b2{
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #c6088d;
+    color: white;
+}
+.class2 {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 90px;
+    margin-top: 50px;
+    text-shadow: 5px 5px 30px black;
+
+}
+
+.b1 {
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #c6088d;
+    color: white;
+    /* box-shadow: 10px 10px 10px rgb(232, 76, 154); */
+}
+
+.b1:hover ,.b2:hover{
+    background-color: #238fdd;
+
+}
