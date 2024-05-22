@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding: 0px;
+    font-family: 'Montserrat', 'sans-serif';
 }
 .content{
     display: grid;
@@ -31,15 +32,16 @@
     height: 100px;
     background-color:color(from color srgb r g b);
     align-items: center;
-    margin-top: 20px;
-    position: fixed;
+    /* margin-top: 20px; */
+    position: fixed;     
     z-index: 2;
 }
 .ul{
     display: flex;
-    gap: 2vw;
+    gap: 2vw;    
+    /* justify-content: space-evenly; */
     list-style: none;
-    margin-right: 20px;
+    margin-left:    30px;
     font-size: 30px;
     color: white;
 }
