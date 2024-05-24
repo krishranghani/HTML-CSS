@@ -7,7 +7,7 @@
 .content {
     display: grid;
     width: 100%;
-    background-color: aquamarine;
+    background-color: rgb(131, 127, 255);
     /* gap: 10px; */
 }
 
@@ -438,4 +438,58 @@
 }
 #linkedin-1{
     margin-right: 30px;
+}.box-7{
+    width: 2000px;
+    height: 600px;
+    background-color: rgb(253, 241, 241);
+    display: flex;
+    gap: 10px;
+    margin-left: -70px;
+    justify-content: center;
+}
+.box71{
+    width: 800px;
+    height: 100%;
+    background-color: rgb(253, 241, 241);
+}
+.box72{
+    width: 800px;
+    height: 100%;
+    background-color: rgb(253, 241, 241);
+}
+.h27{
+    font-size: 38px;
+    font-weight: 400;
+    overflow-wrap: break-word;
+    margin-top: 30px;
+}
+.h17{
+    font-size: 70px;
+    font-weight: 600;
+    margin: 15px 0 25px;
+}
+.sp7{
+    color: rgb(233, 45, 170);
+}
+.b7p1{
+    font-size: 25px;
+    font-weight: 400;
+}
+.b71{
+    background-color: skyblue;
+    padding: 15px;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+    color: white;
+}
+.b71:hover{
+    background-color:rgb(218, 19, 168);
+    transition-duration: 1s;
+}
+#img7b7{
+    height: 100%;
+    width: 100%;
 }
